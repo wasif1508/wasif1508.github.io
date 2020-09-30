@@ -27,7 +27,7 @@ author_profile: true
 * Complex Analysis (MSO202)
 
 ## Electrical Engineering ##
---
+
 * Signals and Systems (EE200)
 * Microelectronics (EE210)
 * Introduction to Electronics (ESC201)
@@ -35,7 +35,7 @@ author_profile: true
 * Control Systems Analysis (EE250)
 
 ## Other ##
---
+
 * Introduction to Programming (ESC101)
 * Quantum Mechanics (PSO201)
 
