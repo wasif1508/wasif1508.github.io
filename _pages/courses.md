@@ -4,8 +4,9 @@ title: "Courses"
 permalink: /courses/
 author_profile: true
 ---
-In my current semester I am enrolled in the following courses:
----
+
+# In my current semester I am enrolled in the following courses: #
+
 
 * Optimisation for Big Data (EE698U) 
 * Digital Electronics (EE370) 
@@ -13,11 +14,10 @@ In my current semester I am enrolled in the following courses:
 * Basics of Modern Control System (EE650)
 * Power Systems (EE330)
 
-Previously I have completed the following key courses:
----
+# Previously I have completed the following key courses: #
 
-*Mathematics and Statistics
---
+
+## Mathematics and Statistics ##
 
 * Bayesian Analysis (MTH535)
 * Probability and Statistics (MSO201)
@@ -26,7 +26,7 @@ Previously I have completed the following key courses:
 * Partial Differential Equations (MSO203)
 * Complex Analysis (MSO202)
 
-*Electrical Engineering
+## Electrical Engineering ##
 --
 * Signals and Systems (EE200)
 * Microelectronics (EE210)
@@ -34,7 +34,7 @@ Previously I have completed the following key courses:
 * Introduction to Electrical Engineering (ESO203)
 * Control Systems Analysis (EE250)
 
-*Other
+## Other ##
 --
 * Introduction to Programming (ESC101)
 * Quantum Mechanics (PSO201)
