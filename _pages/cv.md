@@ -7,6 +7,6 @@ author_profile: true
 
 <br/><br/><br/>
 
-CV temporarily unavailable. Will be updated soon.
+My CV is temporarily unavailable. I will update it soon.
 <br/>
 [Contact Me](/contact/) if you want to have a look at it urgently.
