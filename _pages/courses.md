@@ -6,7 +6,7 @@ excerpt: "Courses"
 author_profile: true
 ---
 
-# In my current semester I am enrolled in the following courses: #
+# In my current semester I am enrolled in the following key courses: #
 
 
 * Optimisation for Big Data (EE698U) 
