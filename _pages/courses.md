@@ -12,10 +12,11 @@ author_profile: true
 *Basics of Modern Control System (EE650)
 *Power Systems (EE330)
 
-# Previously I have completed the following courses:
+Previously I have completed the following key courses:
+---
 
 Mathematics and Statistics
----
+--
 
 *Bayesian Analysis (MTH535)
 *Probability and Statistics (MSO201)
@@ -25,7 +26,7 @@ Mathematics and Statistics
 *Complex Analysis (MSO202)
 
 Electrical Engineering
----
+--
 *Signals and Systems (EE200)
 *Microelectronics (EE210)
 *Introduction to Electronics (ESC201)
@@ -33,7 +34,7 @@ Electrical Engineering
 *Control Systems Analysis (EE250)
 
 Other
----
+--
 *Introduction to Programming (ESC101)
 *Quantum Mechanics (PSO201)
 
