@@ -20,13 +20,13 @@ I am a very quick learner and I am a highly goal driven person. I set out my day
 
 My Interests
 ======
-My interests can be broadly summarised into-
-1. Data Optimisation
-2. Probabilistic Modelling
-3. Algorithms
-4. Machine Learning and Neural Networks
-5. Signal Processing
+My interests can be broadly summarised into:
+* Data Optimisation
+* Probabilistic Modelling
+* Algorithms
+* Machine Learning and Neural Networks
+* Signal Processing
 
-I routinely participate in various Competetive Programming contests and you can find me on-
-1. Codechef- [wasif1508](https://codechef.com/users/wasif1508)
-2. Codeforces- [wasif15082000](https://codeforces.com/profile/wasif15082000)
+I routinely participate in various Competetive Programming contests and you can find me on:
+* Codechef: [wasif1508](https://codechef.com/users/wasif1508)
+* Codeforces: [wasif15082000](https://codeforces.com/profile/wasif15082000)
