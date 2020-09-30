@@ -14,8 +14,8 @@ main:
   - title: "Courses"
     url: /courses/  
 
-#   - title: "Blog Posts"
-#     url: /year-archive/
+  - title: "Contact Me"
+    url: /contact/
     
   - title: "CV"
     url: /cv/
