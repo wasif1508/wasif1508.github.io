@@ -16,7 +16,7 @@ In my current semester I am enrolled in the following courses:
 Previously I have completed the following key courses:
 ---
 
-Mathematics and Statistics
+* Mathematics and Statistics
 --
 
 * Bayesian Analysis (MTH535)
@@ -26,7 +26,7 @@ Mathematics and Statistics
 * Partial Differential Equations (MSO203)
 * Complex Analysis (MSO202)
 
-Electrical Engineering
+* Electrical Engineering
 --
 * Signals and Systems (EE200)
 * Microelectronics (EE210)
@@ -34,11 +34,11 @@ Electrical Engineering
 * Introduction to Electrical Engineering (ESO203)
 * Control Systems Analysis (EE250)
 
-Other
+* Other
 --
 * Introduction to Programming (ESC101)
 * Quantum Mechanics (PSO201)
 
-# These are some courses I completed online:
+# These are the courses which I completed online:
 * Bayesian Methods in Machine Learning (Coursera)
 * Introduction to Machine Learning (Coursera)
