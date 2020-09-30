@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wasif"
+  name             : "Wasif Jawad Hussain"
   avatar           : "profile.png"
-  bio              : "Junior Undergrad"
+  bio              : "Junior Undergrad, Dept. of Electrical Engineering, IIT-Kanpur"
   location         : "Kanpur, India"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "wasif1508"
   foursquare       :
   github           : "wasif1508"
   google_plus      :
@@ -102,8 +102,9 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
+  codechef         : "wasif1508"
   linkedin         : "wasif1508"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
