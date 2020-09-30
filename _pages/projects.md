@@ -5,8 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-These are some of the projects that I have done-
-
 # Major projects
 * Video Object Detection
 * Query by Humming
