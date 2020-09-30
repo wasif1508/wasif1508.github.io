@@ -17,7 +17,7 @@ author_profile: true
 # Previously I have completed the following key courses: #
 
 
-## Mathematics and Statistics ##
+#### Mathematics and Statistics ####
 
 * Bayesian Analysis (MTH535)
 * Probability and Statistics (MSO201)
@@ -26,7 +26,7 @@ author_profile: true
 * Partial Differential Equations (MSO203)
 * Complex Analysis (MSO202)
 
-## Electrical Engineering ##
+#### Electrical Engineering ####
 
 * Signals and Systems (EE200)
 * Microelectronics (EE210)
@@ -34,7 +34,7 @@ author_profile: true
 * Introduction to Electrical Engineering (ESO203)
 * Control Systems Analysis (EE250)
 
-## Other ##
+#### Other ####
 
 * Introduction to Programming (ESC101)
 * Quantum Mechanics (PSO201)
