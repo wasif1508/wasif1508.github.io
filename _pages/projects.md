@@ -14,4 +14,4 @@ author_profile: true
 * Bayesian Machine Learning
 * Language Identification of documents
 
-You can have a look at my CV to know more about each of these projects and visit their respective GitHub repositories.
+You can have a look at my [CV](/cv/) to know more about each of these projects and visit their respective GitHub repositories.
