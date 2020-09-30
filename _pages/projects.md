@@ -11,7 +11,7 @@ author_profile: true
 
 # Minor projects
 * Software team member, HUMANOID-IITK
-* Bayesian Machine Learning online course project
+* Bayesian Machine Learning
 * Language Identification of documents
 
 You can have a look at my CV to know more about each of these projects and visit their respective GitHub repositories.
