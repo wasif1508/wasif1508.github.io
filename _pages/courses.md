@@ -2,6 +2,7 @@
 layout: archive
 title: ""
 permalink: /courses/
+excerpt: "Courses"
 author_profile: true
 ---
 
