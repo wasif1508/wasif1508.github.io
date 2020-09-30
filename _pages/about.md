@@ -27,6 +27,6 @@ My interests can be broadly summarised into-
 4. Machine Learning and Neural Networks
 5. Signal Processing
 
-I routinely participate in various Competetive Programming contests and you can connect with me on-
+I routinely participate in various Competetive Programming contests and you can find me on-
 1. Codechef- [wasif1508](https://codechef.com/users/wasif1508)
 2. Codeforces- [wasif15082000](https://codeforces.com/profile/wasif15082000)
