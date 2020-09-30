@@ -4,7 +4,8 @@ title: "Courses"
 permalink: /courses/
 author_profile: true
 ---
-# In my current semester I am enrolled in the following courses:
+In my current semester I am enrolled in the following courses:
+---
 
 *Optimisation for Big Data (EE698U) 
 *Digital Electronics (EE370) 
@@ -39,5 +40,5 @@ Other
 *Quantum Mechanics (PSO201)
 
 # These are some courses I completed online:
-*Bayesian Methods in Machine Learning (Coursera)
-*Introduction to Machine Learning (Coursera)
+* Bayesian Methods in Machine Learning (Coursera)
+* Introduction to Machine Learning (Coursera)
