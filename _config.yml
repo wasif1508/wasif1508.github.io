@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wasif Jawad Hussain"
 title_separator          : "-"
 name                     : &name "Wasif Jawad Hussain"
-description              : &description "Junior Undergrad, Dept. of Electrical Engineering, IIT-Kanpur"
+description              : &description "Junior Undergraduate, Dept. of Electrical Engineering, IIT-Kanpur"
 url                      : https://wasif1508.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wasif1508/wasif1508.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wasif Jawad Hussain"
   avatar           : "profile.png"
-  bio              : "Junior Undergrad, Dept. of Electrical Engineering, IIT-Kanpur"
+  bio              : "Junior Undergraduate, Dept. of Electrical Engineering, IIT-Kanpur"
   location         : "Kanpur, India"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,6 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  codechef         : "wasif1508"
   linkedin         : "wasif1508"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
