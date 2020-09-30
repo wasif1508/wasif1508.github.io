@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-<br /><br /><br /><br /><br />
+<br /><br /><br />
 
 # You can contact me via the following
 
