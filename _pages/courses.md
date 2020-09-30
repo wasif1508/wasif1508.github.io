@@ -4,47 +4,39 @@ title: "Courses"
 permalink: /courses/
 author_profile: true
 ---
-In my current semester I am enrolled in the following courses:
+# In my current semester I am enrolled in the following courses:
 
-<b>Optimisation for Big Data[(EE698U)](https://home.iitk.ac.in/~ketan/courses/EE%20698U%20LSO%20Online.html)</b> <br> 
+*Optimisation for Big Data (EE698U) 
+*Digital Electronics (EE370) 
+*Principles of Communications (EE320)
+*Basics of Modern Control System (EE650)
+*Power Systems (EE330)
 
-<b>Digital Electronics[] <br> 
+# Previously I have completed the following courses:
 
-<b>Probability and Random Processes(EE 325)</b> <br> 
+Mathematics and Statistics
+---
 
-<b>Communication Systems(EE 308)</b> <br> 
+*Bayesian Analysis (MTH535)
+*Probability and Statistics (MSO201)
+*Linear Algebra and Ordinary Differential Equations (MTH102)
+*Real Analysis and Mutlivariate Calculus (MTH101)
+*Partial Differential Equations (MSO203)
+*Complex Analysis (MSO202)
 
-<b>Design and Analysis of Algorithms(CS 218(M))</b> <br> 
+Electrical Engineering
+---
+*Signals and Systems (EE200)
+*Microelectronics (EE210)
+*Introduction to Electronics (ESC201)
+*Introduction to Electrical Engineering (ESO203)
+*Control Systems Analysis (EE250)
 
-<b>Microprocessors(EE 309)</b> <br> 
+Other
+---
+*Introduction to Programming (ESC101)
+*Quantum Mechanics (PSO201)
 
-Here are the key courses that I have completed so far:
-
-<b>Signal and Systems(EE 210)</b> <br> 
-
-<b>Data Analysis and Interpretation (EE 223)</b> <br>
-
-<b>Data Structure and Algorithms (CS 213(M))</b> <br>  
-
-<b>Machine Learning for Remote Sensing-1(GNR 652)</b> <br> 
-
-<b>Complex Analysis(MA 205)</b> <br> 
-
-<b>Partial Differential Equations(MA 207)</b> <br> 
-
-<b>Linear Algebra(MA 106)</b> <br>
-
-<b>Calculus(MA 105)</b> <br>
-
-<b>Ordinary Differential Equations 1(MA 108)</b> <br>
-
-<b>Digital Systems(EE 224)</b> <br>
-
-<b>Network Theory(EE 225)</b> <br> 
-
-<b>Computer Programming and Utilization (CS 101)</b> <br>
-
-# MOOC <br>
-* Convolutional Neural Networks(Coursera)
-* Sequence Models(Coursera)
-* NLP with Classification Vectors(Coursera)
+# These are some courses I completed online:
+*Bayesian Methods in Machine Learning (Coursera)
+*Introduction to Machine Learning (Coursera)
