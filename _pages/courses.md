@@ -3,7 +3,7 @@ layout: archive
 title: ""
 permalink: /courses/
 excerpt: "Courses"
-author_profile: true
+author_profile: false
 ---
 
 # In my current semester I am enrolled in the following key courses: #
