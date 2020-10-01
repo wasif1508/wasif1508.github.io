@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 # Major projects
-* Video Object Detection
-* Query by Humming
+* Video Object Detection 
+* Query by Humming [[report]](https://github.com/wasif1508/Query-by-Humming/blob/master/QbH_Report.pdf)
 
 # Minor projects
 * Software team member, HUMANOID-IITK
