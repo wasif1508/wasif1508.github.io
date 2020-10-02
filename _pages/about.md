@@ -16,7 +16,7 @@ Hi everyone!! I am a junior undergraduate majoring in Electrical Engineering fro
 A Personal Assessment
 ======
 
-I am a very quick learner and I am a highly goal driven person. I set out my day with daily targets and complete them howsoever long they may take, if I finish early, I take out the remaining time as a reward and enjoy myself to the fullest during it. I am very open and enthusiastic towards learning new ideas and I am always on the lookout for opportunities of deploying these ideas to solve real life problems.
+I am a very quick learner and I am a highly goal oriented person. I set out my day with daily targets and complete them howsoever long they may take, if I finish early, I take out the remaining time as a reward and enjoy myself to the fullest during it. I am very open and enthusiastic towards learning new ideas and I am always on the lookout for opportunities of deploying these ideas to solve real life problems.
 
 My Interests
 ======
