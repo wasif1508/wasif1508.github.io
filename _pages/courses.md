@@ -8,8 +8,6 @@ author_profile: true
 
 # In my current semester I am enrolled in the following key courses: #
 
-
-* Optimisation for Big Data (EE698U) 
 * Digital Electronics (EE370) 
 * Principles of Communications (EE320)
 * Basics of Modern Control System (EE650)
