@@ -8,10 +8,11 @@ author_profile: true
 
 # In my current semester I am enrolled in the following key courses: #
 
-* Digital Electronics (EE370) 
-* Principles of Communications (EE320)
-* Basics of Modern Control System (EE650)
-* Power Systems (EE330)
+* Data Strucutre and Algorithms (ESO207)
+* Electromagnetic Theory (EE340)
+* Digital Signal Processing (EE301)
+* Power Electronics (EE360)
+* Machine Learning for Wireless Communication (EE698Z)
 
 # Previously I have completed the following key courses: #
 
@@ -32,6 +33,10 @@ author_profile: true
 * Introduction to Electronics (ESC201)
 * Introduction to Electrical Engineering (ESO203)
 * Control Systems Analysis (EE250)
+* Digital Electronics (EE370) 
+* Principles of Communications (EE320)
+* Basics of Modern Control System (EE650)
+* Power Systems (EE330)
 
 #### Other ####
 
