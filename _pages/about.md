@@ -20,11 +20,11 @@ I am a very quick learner and a highly goal oriented person. I set out my day wi
 
 My Interests
 ======
-My interests can be broadly summarised into:
+Some areas of my interests are:
 * Signal Processing
 * Algorithms
 * Machine Learning 
-* Statistics
+* Quantum Physics, Statistics and a lot more 
 
 I routinely participate in various Competetive Programming contests and you can find me on:
 * Codechef: [wasif1508](https://codechef.com/users/wasif1508)
