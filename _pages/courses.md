@@ -6,13 +6,7 @@ excerpt: "Courses"
 author_profile: true
 ---
 
-# In my current semester I am enrolled in the following key courses: #
-
-* Data Strucutre and Algorithms (ESO207)
-* Electromagnetic Theory (EE340)
-* Digital Signal Processing (EE301)
-* Power Electronics (EE360)
-* Machine Learning for Wireless Communication (EE698Z)
+<!-- # In my current semester I am enrolled in the following key courses: # -->
 
 # Previously I have completed the following key courses: #
 
@@ -28,6 +22,9 @@ author_profile: true
 
 #### Electrical Engineering ####
 
+* Electromagnetic Theory (EE340)
+* Power Electronics (EE360)
+* Machine Learning for Wireless Communication (EE698Z)
 * Signals and Systems (EE200)
 * Microelectronics (EE210)
 * Introduction to Electronics (ESC201)
@@ -40,9 +37,11 @@ author_profile: true
 
 #### Other ####
 
+* Data Strucutre and Algorithms (ESO207)
 * Introduction to Programming (ESC101)
 * Quantum Mechanics (PSO201)
 
 # These are the courses which I completed online:
+
 * Bayesian Methods in Machine Learning (Coursera)
 * Introduction to Machine Learning (Coursera)
