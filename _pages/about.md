@@ -11,7 +11,7 @@ redirect_from:
 A Brief Introduction
 ======
 
-Hi everyone!! I am a junior undergraduate majoring in Electrical Engineering from the [Indian Institute of Technology, Kanpur](https://iitk.ac.in). I belong to the beautiful city of [Ranchi](https://www.google.com/search?gs_ssp=eJzj4tTP1TcwLCkpMTNg9GIrSsxLzsgEADbMBcg&q=ranchi&oq=Ranch&aqs=chrome.1.69i57j46l2j0l2j46j0.1454j0j7&sourceid=chrome&ie=UTF-8) in the heartland of Jharkhand. Since always I had a knack for Mathematics and anything that involves it fascinates me a lot.
+Hi everyone!! I am a senior undergraduate majoring in Electrical Engineering from the [Indian Institute of Technology, Kanpur](https://iitk.ac.in). I belong to the beautiful city of [Ranchi](https://www.google.com/search?gs_ssp=eJzj4tTP1TcwLCkpMTNg9GIrSsxLzsgEADbMBcg&q=ranchi&oq=Ranch&aqs=chrome.1.69i57j46l2j0l2j46j0.1454j0j7&sourceid=chrome&ie=UTF-8) in the heartland of Jharkhand. Since always I had a knack for Mathematics and anything that involves it fascinates me a lot.
 
 A Personal Assessment
 ======
